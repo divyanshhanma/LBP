@@ -1,0 +1,3 @@
+/home/bu/root/tfhe_aes_homomorphic/build/CMakeFiles/main.dir
+/home/bu/root/tfhe_aes_homomorphic/build/CMakeFiles/edit_cache.dir
+/home/bu/root/tfhe_aes_homomorphic/build/CMakeFiles/rebuild_cache.dir
